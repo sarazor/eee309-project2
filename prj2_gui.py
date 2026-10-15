@@ -17,7 +17,7 @@ ADC_VALUES = [
     573, 656, 737, 817, 902, 983, 1023
 ]
 
-PORT = "COM5"
+PORT = "COM6"
 BAUD = 9600
 
 class Voltmeter:
